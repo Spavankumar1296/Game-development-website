@@ -702,8 +702,8 @@
 
 .footer-set-full{
     background-image: url("https://img.freepik.com/free-vector/gradient-connection-background_23-2150462053.jpg?t=st=1715145538~exp=1715149138~hmac=15c29c3dd510c1e4ed6a2d49539c9c63237568a831925f0c76982df0050ece83&w=996");
-   /* height: 100vh; */
-   width: 100vw;
+   height: auto;
+   width: auto;
    background-size: cover;
    
   }
